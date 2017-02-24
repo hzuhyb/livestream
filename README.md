@@ -99,4 +99,4 @@ hls_fragment表示切片时长，mysteam表示一个实例，即将来要生成�
 - [hls-decryptor](https://github.com/mafintosh/hls-decryptor)
 - [videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls)
 - [MSE-based HLS client](https://github.com/dailymotion/hls.js)
-- [livestream](https://github.com/lcxfs1991/livestream)
+- [WebRTC 直播时代](https://www.villainhr.com/page/2017/02/20/WebRTC%20%E7%9B%B4%E6%92%AD%E6%97%B6%E4%BB%A3)
