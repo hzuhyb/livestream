@@ -5,4 +5,8 @@
 - [H5同层播放器接入规范](https://github.com/huangtubiao/livestream/blob/master/video/H5同层播放器接入规范.pdf)
 - [视频H5のVideo标签在微信里的坑和技巧](http://www.cnblogs.com/zzsdream/p/6372528.html)
 
-### 播放器在自动播放问题
+### 播放器自动播放问题
+
+### 播放器同层播放自动填充满父div的大小问题
+
+- object-fit?
